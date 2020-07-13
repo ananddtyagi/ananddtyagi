@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm Anand 
+### I am passionate about building useful tools and products for others to use. 
+
+ - 🔭 I’m currently working on building up the Babbage Patch, creating an evaluation metric and system for a Glossary creation system, learning about credit risk modeling, creating an interactive online experience with some friends, and updating my personal website.
+- 💬 Ask me about any of my recent projects or about joining the Babbage Patch
+- 📫 How to reach me: anand.tyagi@nyu.edu
