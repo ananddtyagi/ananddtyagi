@@ -19,12 +19,8 @@ Here are some ideas to get you started:
 ### I am passionate about building useful tools and products for others to use. 
 
  - 🔭 I’m currently working on:
-   - Building up the Babbage Patch
-   - Creating an evaluation metric and system for a Glossary creation system
-   - Learning about credit risk modeling 
-   - Creating an interactive online experience with some friends
-   - Updating my personal website.
-- 💬 Ask me about any of my recent projects or about joining the Babbage Patch
+   - Building a bot that can master a board game just by reading a set of instructions.
+- 💬 Ask me about any of my recent projects or anything NLP related!
 - 📫 How to reach me: anand.tyagi@nyu.edu
 
 If you want to know more about me, visit my website at [here](https://anandtyagi.me/)
