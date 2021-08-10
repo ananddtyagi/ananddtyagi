@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### I am passionate about building useful tools and products for others to use. 
 
  - 🔭 I’m currently working on:
-   - Building a bot that can master a board game just by reading a set of instructions.
+   - Updating my personal website.
 - 💬 Ask me about any of my recent projects or anything NLP related!
 - 📫 How to reach me: anand.tyagi@nyu.edu
 
