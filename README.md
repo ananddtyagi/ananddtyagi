@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### I am passionate about building useful tools and products for others to use. 
 
  - 🔭 I’m currently working on:
-   - A tool to help view your listening trends on Spotify.
+   - Redesigning my personl website
 - 💬 Ask me about any of my recent projects or anything NLP related!
 - 📫 How to reach me: anand.tyagi@nyu.edu
 
