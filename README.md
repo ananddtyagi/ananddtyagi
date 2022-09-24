@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  - 🔭 I’m currently working on:
    - Redesigning my personl website
 - 💬 Ask me about any of my recent projects or anything NLP related!
-- 📫 How to reach me: anand.tyagi@nyu.edu
+- 📫 How to reach me: anand.deep.tyagi@gmail.com
 
 If you want to know more about me, visit my website at [here](https://anandtyagi.me/)
  
