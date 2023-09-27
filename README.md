@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### I am passionate about building useful tools and products for others to use. 
 
  - 🔭 I’m currently working on:
-   - Redesigning my personl website
+   - Learning about RAG
 - 💬 Ask me about any of my recent projects or anything NLP related!
 - 📫 How to reach me: anand.deep.tyagi@gmail.com
 
