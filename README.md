@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ## I'm Anand 
 ### I am passionate about building useful tools and products for others to use. 
 
- - 🔭 I’m currently working on:
-   - Learning about RAG
+- 🔭 I’m currently working on:
+  - Developing multimodal interaction interfaces. 
 - 💬 Ask me about any of my recent projects or anything NLP related!
 - 📫 How to reach me: anand.deep.tyagi@gmail.com
 
